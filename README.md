@@ -11,4 +11,4 @@ Curated list of Comfy UI Workflows
 
 [civitai.com](https://civitai.com/)
 [huggingface.co](https://huggingface.co/models)
-
+[tensor.art](https://tensor.art/)
